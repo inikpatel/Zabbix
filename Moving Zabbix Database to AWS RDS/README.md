@@ -89,7 +89,9 @@ sudo systemctl restart apache2
 
 Below is a high-level visual of the end-to-end migration process:
 
-![Zabbix to AWS RDS Migration Diagram](Zabbix/Moving%20Zabbix%20Database%20to%20AWS%20RD/zabbix-to-rds-migration-diagram.png)
+![Zabbix to AWS RDS Migration Diagram](zabbix-to-rds-migration-diagram.png)
+
+Moving Zabbix Database to AWS RDS/zabbix-to-rds-migration-diagram.png.png
 
 > 📌 _Make sure to place the image `zabbix-to-rds-migration-diagram.png` in the same directory._
 
